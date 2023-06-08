@@ -1,0 +1,1 @@
+var json__23 = {"type":"FeatureCollection","name":"_23","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Название":"Петлова"},"geometry":{"type":"Point","coordinates":[56.680209588002569,53.577850642944696]}}]}

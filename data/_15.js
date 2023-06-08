@@ -1,0 +1,1 @@
+var json__15 = {"type":"FeatureCollection","name":"_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Название":"Абзановский"},"geometry":{"type":"Point","coordinates":[56.689623384853356,54.462820247797502]}}]}

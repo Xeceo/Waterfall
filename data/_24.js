@@ -1,0 +1,1 @@
+var json__24 = {"type":"FeatureCollection","name":"_24","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Название":"Климентий"},"geometry":{"type":"Point","coordinates":[56.612464082260331,52.989606575164707]}}]}

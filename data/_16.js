@@ -1,0 +1,1 @@
+var json__16 = {"type":"FeatureCollection","name":"_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Название":"Кызылташ"},"geometry":{"type":"Point","coordinates":[58.514070130424074,53.696293731237837]}}]}

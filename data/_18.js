@@ -1,0 +1,1 @@
+var json__18 = {"type":"FeatureCollection","name":"_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Название":"Гадельша"},"geometry":{"type":"Point","coordinates":[58.535646052559869,52.706279658651532]}}]}

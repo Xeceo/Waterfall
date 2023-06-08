@@ -1,0 +1,1 @@
+var json__19 = {"type":"FeatureCollection","name":"_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Название":"Могак"},"geometry":null},{"type":"Feature","properties":{"Название":null},"geometry":{"type":"Point","coordinates":[58.519848907962796,53.48666095118606]}}]}

@@ -1,0 +1,1 @@
+var json__20 = {"type":"FeatureCollection","name":"_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Название":"Кук-Караук"},"geometry":{"type":"Point","coordinates":[56.685032161576459,53.601018860929067]}}]}

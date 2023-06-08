@@ -1,0 +1,1 @@
+var json__17 = {"type":"FeatureCollection","name":"_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Название":"Узеньский"},"geometry":{"type":"Point","coordinates":[55.817603366387466,54.379374193663814]}}]}
